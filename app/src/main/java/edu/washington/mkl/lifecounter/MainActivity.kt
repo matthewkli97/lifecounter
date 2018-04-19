@@ -8,7 +8,7 @@ import android.widget.TextView
 import org.w3c.dom.Text
 
 class MainActivity : AppCompatActivity() {
-    val players: IntArray = intArrayOf(1, 1, 1, 1)
+    val players: IntArray = intArrayOf(20, 20, 20, 20)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
